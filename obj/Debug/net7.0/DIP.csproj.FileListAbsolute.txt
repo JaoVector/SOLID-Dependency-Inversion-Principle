@@ -1,0 +1,15 @@
+D:\C#Projects\SOLID - Principels\DIP\bin\Debug\net7.0\DIP.exe
+D:\C#Projects\SOLID - Principels\DIP\bin\Debug\net7.0\DIP.deps.json
+D:\C#Projects\SOLID - Principels\DIP\bin\Debug\net7.0\DIP.runtimeconfig.json
+D:\C#Projects\SOLID - Principels\DIP\bin\Debug\net7.0\DIP.dll
+D:\C#Projects\SOLID - Principels\DIP\bin\Debug\net7.0\DIP.pdb
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.csproj.AssemblyReference.cache
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.AssemblyInfoInputs.cache
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.AssemblyInfo.cs
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.csproj.CoreCompileInputs.cache
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.dll
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\refint\DIP.dll
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.pdb
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\DIP.genruntimeconfig.cache
+D:\C#Projects\SOLID - Principels\DIP\obj\Debug\net7.0\ref\DIP.dll
